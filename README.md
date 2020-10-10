@@ -27,13 +27,27 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Briefly compare and contrast `.forEach` & `.map` (2-3 sentences max)
 
+.forEach allows you to modify an array, create a new array, and push the info you want from the original array into the new array.
+.map allows you to pick info in an array, and manipulate it.
+
 2. Explain the difference between a callback and a higher order function.
+
+
 
 3. What is closure?
 
+closure is when a var inside a function can reach out of the and use a var outside the function.
+
 4. Describe the four rules of the 'this' keyword.
 
+Global: is the whole console.
+Impicit: is summoned with a '.', and the item to the left is affected.
+New: is used when creating 'new' is used to define your constructor.
+Explicit: is when you use .call and .apply.
+
 5. Why do we need super() in an extended class?
+
+super() references back to the parent function for you to use the info that is needed.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
