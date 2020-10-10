@@ -18,6 +18,7 @@ myFunction();
 
 // Explanation: 
 
+//The nested function can access it because it is at a lower level than internal, and can access it because of its scope.
 
 /* Task 2: Counter */
 
