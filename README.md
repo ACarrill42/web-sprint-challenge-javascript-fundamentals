@@ -32,7 +32,8 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 2. Explain the difference between a callback and a higher order function.
 
-
+A HOF is a function that takes other another function as an argument. 
+A Callback is function passed to another function with the expectation that the other function will call it.
 
 3. What is closure?
 
